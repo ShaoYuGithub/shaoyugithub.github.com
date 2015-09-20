@@ -1,0 +1,78 @@
+body{font-family:Lato,"Microsoft YaHei",sans-serif;font-weight:400;font-size:1.1em;color: #FFFFFF;}
+.section1
+{
+    background-color: #22c3aa;
+}
+.section2
+{
+    background-color: #22B573;
+}
+.section3
+{
+    background-color: #2C3E50;
+}
+.section4
+{
+    background-color:#FFA54F;
+}
+.section5
+{
+    background-color: #9C58B6;
+}
+.section6
+{
+    background-color: #ED6461;
+}
+h1{font-size:3.5em;margin:0 0 0.5em 0;margin-top:0}
+h1{text-align:center}
+h2{font-size:2.5em;margin:0 0 0.5em 0;margin-top:0;color:#191970}
+h2{text-align:center}
+h3{font-size:2.0em;margin:0 0 0.5em 0;margin-top:0;}
+h3{text-align:center}
+h4{font-size:1.25em;margin:0 0 0.1em 0;margin-top:0}
+p{font-size:1.1em;margin:0.5em 0}
+p{color:#aee2d9}
+.page{background-color:#22c3aa;color:#eef3f0;padding:50px;transition:0.5s}
+.page.initing{display:none}
+.page.leaving{background-color:#9f3}.center{text-align:center}
+.work{text-align:center}
+#avatar{width:256px;height:256px;border:10px solid #aee2d9;-webkit-border-radius:50%;-moz-border-radius:50%;-o-border-radius:50%;border-radius:50%}
+#intro-text    {display:inline-block; margin:80px 0 0 130px; color:white;}
+#intro-text li {height:30px;}
+#intro-text ul li a {display:inline-block;}
+#intro-text ul li span {display:inline-block; text-align:right; width:70px;}
+#intro-text div {display:inline-block; width:550px; margin-left:230px;}
+#ep-text    {display:inline-block; color:white;}
+#ep-text li {height:30px;}
+#ep-text ul li a {display:inline-block;}
+#ep-text ul li span {display:inline-block; text-align:right; width:70px;}
+#ep-text div {display:inline-block; width:450px; margin-left:120px;}
+.fl{float:left;}
+.fr{float:right;}
+.tech-skill-list__item { position: relative; margin-bottom: 15px; }
+.tech-skill-list__item-javascript { width: 80%; }
+.tech-skill-list__item-html-and-css { width: 75%; }
+.tech-skill-list__item-c { width: 70%; }
+.tech-skill-list__item-sql { width: 50%; }
+.tech-skill-list__item__name {
+    height: 34px;
+    line-height: 34px;
+    padding-left: 10px;
+    overflow: hidden;
+    border-left: 3px solid;
+    color: #ff742a;
+    background-color: #fff6dd;
+    border-color: #fdbc40;
+}
+.tech-skill-list__item--practised .tech-skill-list__item__name {
+    color: #6e9c0f;
+    background-color: #eaf6d0;
+    border-color: #80bd01;
+}
+.tech-skill-list__item--mastered .tech-skill-list__item__name {
+    color: #2a7da9;
+    background-color: #d6efff;
+    border-color: #3498db;
+}
+.tech-skill-list__item__detail { display: none; }
+
