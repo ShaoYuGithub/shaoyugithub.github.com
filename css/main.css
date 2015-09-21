@@ -37,16 +37,16 @@ p{color:#aee2d9}
 .page.leaving{background-color:#9f3}.center{text-align:center}
 .work{text-align:center}
 #avatar{width:256px;height:256px;border:10px solid #aee2d9;-webkit-border-radius:50%;-moz-border-radius:50%;-o-border-radius:50%;border-radius:50%}
-#intro-text    {display:inline-block; margin:80px 0 0 130px; color:white;}
+#intro-text    {display:inline-block; margin:80px 0 0 130px;width:1050px; color:white;}
 #intro-text li {height:30px;}
 #intro-text ul li a {display:inline-block;}
 #intro-text ul li span {display:inline-block; text-align:right; width:70px;}
-#intro-text div {display:inline-block; width:550px; margin-left:230px;}
-#ep-text    {display:inline-block; color:white;}
+#intro-text div {display:inline-block; width:550px; margin-left:120px;}
+#ep-text    {display:inline-block; width:770px;color:white;}
 #ep-text li {height:30px;}
 #ep-text ul li a {display:inline-block;}
 #ep-text ul li span {display:inline-block; text-align:right; width:70px;}
-#ep-text div {display:inline-block; width:450px; margin-left:120px;}
+#ep-text div {display:inline-block; width:350px; margin-left:120px;}
 .fl{float:left;}
 .fr{float:right;}
 .tech-skill-list__item { position: relative; margin-bottom: 15px; list-style-type:none;}
