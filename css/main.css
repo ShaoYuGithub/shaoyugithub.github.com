@@ -49,7 +49,7 @@ p{color:#aee2d9}
 #ep-text div {display:inline-block; width:450px; margin-left:120px;}
 .fl{float:left;}
 .fr{float:right;}
-.tech-skill-list__item { position: relative; margin-bottom: 15px; }
+.tech-skill-list__item { position: relative; margin-bottom: 15px; list-style-type:none;}
 .tech-skill-list__item-javascript { width: 80%; }
 .tech-skill-list__item-html-and-css { width: 75%; }
 .tech-skill-list__item-c { width: 70%; }
