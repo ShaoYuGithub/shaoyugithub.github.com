@@ -41,8 +41,8 @@ p{color:#aee2d9}
 #intro-text li {height:30px;}
 #intro-text ul li a {display:inline-block;}
 #intro-text ul li span {display:inline-block; text-align:right; width:70px;}
-#intro-text div {display:inline-block; width:550px; margin-left:120px;}
-#ep-text    {display:inline-block; width:770px;color:white;}
+#intro-text div {display:inline-block; width:450px; margin-left:120px;}
+#ep-text    {display:inline-block; color:white;}
 #ep-text li {height:30px;}
 #ep-text ul li a {display:inline-block;}
 #ep-text ul li span {display:inline-block; text-align:right; width:70px;}
